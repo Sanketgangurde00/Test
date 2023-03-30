@@ -1,0 +1,8 @@
+.Block{
+    border: 1px;
+    border-style:inset;
+    width: auto;
+    height: auto;
+    justify-content: center;
+    text-align: center;
+}
